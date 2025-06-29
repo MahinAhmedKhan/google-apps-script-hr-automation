@@ -25,13 +25,6 @@ This project automates employee onboarding and performance review reminders usin
 - Email sending is currently **mocked** with `console.log()` statements to avoid exposing personal emails.
 - Replace placeholder emails in the sheets with real ones when running in your own environment.
 - Uncomment email lines only after verifying your setup.
-
----
-
-## Demo
-
-![Demo Screenshot](./demo-screenshot.png)  <!-- add screenshot of your form/sheet -->
-
 ---
 
 ## Next Steps
